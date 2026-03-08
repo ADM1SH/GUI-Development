@@ -1,12 +1,12 @@
-# GUI Development Practice
+# Graphical User Interface (GUI) Experiments
 
-## Overview
-Initial experiments in creating Graphical User Interfaces using Python and C.
+## Description
+A sandbox repository for learning how to build visual applications using Python and C. This project focuses on the bridge between terminal logic and interactive windows.
 
-## Contents
-- `gui.py`: A Python script utilizing a GUI library (like GTK or Tkinter) to create a basic window.
-- `main.c`: A C implementation for a graphical interface.
+## Technologies Used
+- **Python (GTK/Tkinter)**: Quick prototyping of window-based applications.
+- **C (GTK)**: Low-level implementation of interactive widgets and event loops.
 
 ## Goals
-- Learning event-driven programming.
-- Understanding widget hierarchies and layout management.
+- Mastering event-driven programming.
+- Understanding the Model-View-Controller (MVC) pattern in UI design.
